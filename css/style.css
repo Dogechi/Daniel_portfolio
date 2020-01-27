@@ -1,0 +1,66 @@
+h1{
+  color: DodgerBlue;
+  text-align: center;
+  border-bottom: 2px solid DodgerBlue;
+}
+
+h4{
+  color: DodgerBlue;
+  font-style: italic;
+
+}
+p{
+
+}
+ul{
+
+}
+ol{
+
+}
+body{
+
+}
+.content-holder{
+  width: 100%;
+  height: inherit;
+  display: flex;
+  margin-top: 10px;
+  border:solid;
+}
+.underline{
+  text-decoration: underline;
+}
+.emboldened-text{
+  font-weight: bold;
+}
+#work-experience{
+  border: 2px solid black;
+  display: inline-block;
+  width: 65%;
+
+}
+.career{
+  border: 2px solid black;
+  margin-left: 0px;
+  margin-right: 200px;
+}
+#personal{
+  width:45%;
+  height: inherit;
+  margin-right:
+
+}
+#education{
+  border: 2px solid black;
+  margin-left: 0px;
+  margin-right: 200px;
+}
+.honors{
+  border: 2px solid black;
+  margin-left: 0px;
+  margin-right: 200px;
+}
+h6{
+  text-align: center;
+}
